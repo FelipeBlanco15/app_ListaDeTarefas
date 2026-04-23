@@ -4,7 +4,6 @@ Data: 10 - 23/04/2026
 Objetivo: o app cria é um facilitador para criar listas de tarefas para ajudar no dia a dia, ou até mesmo ser usado para organização de possiveis trabalhos que o prestador de serviços tem.
 */
 
-
 import React, { useState } from "react"; /* importação de "tags" do react native. */
 import {
   View,
